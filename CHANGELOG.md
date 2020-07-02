@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/escsrl/mercure-publisher/compare/v2.0.0...v2.0.1) (2020-07-02)
+
 ## 2.0.0 (2019-12-06)
 
 

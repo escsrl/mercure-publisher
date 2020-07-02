@@ -28,6 +28,7 @@
     "require": {
         "php": "^7.3",
         "ext-json": "*",
+        "symfony/mercure": "0.3",
         "symfony/mercure-bundle": "^0.2"
     },
     "require-dev": {
